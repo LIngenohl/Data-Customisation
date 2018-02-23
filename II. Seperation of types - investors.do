@@ -10,6 +10,11 @@ use "First Data Sample customised.dta"
 	
 * III. New data sample of targets only *
 
-	save "Sample Investors"
+	save "Sample Investors", replace
 	
 	
+* IV. Summary Statistics of the Investors * 
+
+* Earliest year * 
+
+summ fdate, format

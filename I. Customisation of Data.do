@@ -2,7 +2,7 @@
 * I. Specifications * 
 
 cd "/Users/leopoldingenohl/Dropbox/Bachelorarbeit Kube/Input/First Data Sample"
-use "/Users/leopoldingenohl/Dropbox/Bachelorarbeit Kube/Input/First Data Sample/First Data Sample unfiltered.dta"
+use "/Users/leopoldingenohl/Dropbox/Bachelorarbeit Kube/Input/First Data Sample/First Data Sample.dta"
 
 
 * II. Generate new dummy variable for type of Filing  *
@@ -25,8 +25,4 @@ use "/Users/leopoldingenohl/Dropbox/Bachelorarbeit Kube/Input/First Data Sample/
 
 
 * IV. Saving of customised data set *
-save "First Data Sample Customised"
-
-
-*das ist nur mal wieder ein scheiss test*
-* noch ein weiterer Test *
+save "First Data Sample Customised", replace

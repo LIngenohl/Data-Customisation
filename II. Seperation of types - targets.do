@@ -10,5 +10,5 @@ use "First Data Sample customised.dta"
 	
 * III. New data sample of targets only *
 
-	save "Sample Targets"
+	save "Sample Targets", replace
 	
