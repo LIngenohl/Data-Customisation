@@ -27,3 +27,5 @@ use "/Users/leopoldingenohl/Dropbox/Bachelorarbeit Kube/Input/First Data Sample/
 * IV. Saving of customised data set *
 save "First Data Sample Customised"
 
+
+*das ist nur mal wieder ein scheiss test*
